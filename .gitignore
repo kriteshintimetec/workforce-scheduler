@@ -29,6 +29,7 @@ Thumbs.db
 *.sln
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Lockfiles
 package-lock.json
 =======
@@ -36,3 +37,8 @@ package-lock.json
 # package-lock.json
 # yarn.lock
 >>>>>>> 28e48f2 (chore: initial scaffold for frontend and backend)
+=======
+# Optional lockfiles if you want them ignored (remove if you want to track them)
+# package-lock.json
+# yarn.lock
+>>>>>>> 530581c213c31202a1b6fde76520869b0029e614
