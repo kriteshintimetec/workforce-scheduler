@@ -28,5 +28,11 @@ Thumbs.db
 *.njsproj
 *.sln
 
+<<<<<<< HEAD
 # Lockfiles
 package-lock.json
+=======
+# Optional lockfiles if you want them ignored (remove if you want to track them)
+# package-lock.json
+# yarn.lock
+>>>>>>> 28e48f2 (chore: initial scaffold for frontend and backend)
